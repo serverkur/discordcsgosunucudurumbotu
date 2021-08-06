@@ -1,0 +1,19 @@
+{
+  "name": "csgo-sv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "csgo-api": "^1.3.2",
+    "discord.js": "^12.5.1",
+    "geoip-country": "^4.0.60",
+    "i18n-iso-countries": "^6.5.0",
+    "srcds-a2s": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
